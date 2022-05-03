@@ -1,16 +1,14 @@
-### Hi there 👋
+<h2 align=center>Hi there 👋 I'm Naveen</h2>
 
-<!--
-**naveend3v/naveend3v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 I’m currently working as Junior Associate at (Confidential) Organisation, My responsibilities are creating rules for MDR for current threats, rules for identifying       threats in windows, linux platforms.
+- 🤹‍♂️ I’m currently learning web development & in my free time im practise labs in TryHackMe & HackTheBox platform 
 
-Here are some ideas to get you started:
+<h3>known Languages</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  Html
+-  CSS 
+
+<p align=center>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api?username=naveend3v&theme=radical&show_icons=true&count_private=false)"/>
+</p>
