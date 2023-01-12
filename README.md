@@ -12,7 +12,4 @@
 ### Blogs
 https://medium.com/@197naveen/my-journey-to-gcp-cloud-digital-leader-certification-51553f9d8992
 
-
-<img alt="Naveen Github Stats" src="https://github-readme-stats.vercel.app/api?username=197naveen&show_icons=true&hide_border=true" />
-
-
+[![Naveen's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=197naveen)](https://github.com/anuraghazra/github-readme-stats)
