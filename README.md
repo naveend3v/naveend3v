@@ -5,7 +5,7 @@
 - In my github repo, where you can find my projects and blogs about my work and learning's.
 
 ### Get In Touch!
-[LinkedIn](https://www.linkedin.com/in/naveenrajx) | 
+[LinkedIn](https://www.linkedin.com/in/naveend3v) | 
 [Twitter](https://twitter.com/197naveen) |
 [Medium](https://medium.com/@197naveen)
 
