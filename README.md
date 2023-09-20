@@ -9,8 +9,4 @@
 [Twitter](https://twitter.com/naveend3v) |
 [Medium](https://medium.com/@naveend3v)
 
-### Blogs
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@naveend3v/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@naveend3v/0" alt="Recent Article 0"> 
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=naveend3v&show_icons=true)
